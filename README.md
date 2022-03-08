@@ -25,15 +25,15 @@
   
   
 ## Curiosities:
-#### 🎓 Graduated in Advertising and English
-#### 👨🏽‍💻 Studying HTML, CSS e JavaScript <br>
-#### 🦾 Working hard to be front-end Developer
+### 🎓 Graduated in Advertising and English
+### 👨🏽‍💻 Studying HTML, CSS e JavaScript <br>
+### 🦾 Working hard to be front-end Developer
 
   <br>
   
 ## Fun fact: 
 
-#### 🎮 I'm a game lover and I have my own small eSports Organization
+### 🎮 I'm a game lover and I have my own small eSports Organization
  
   ![Snake animation](https://github.com/Lyppz/Lyppz/blob/output/github-contribution-grid-snake.svg)
 
