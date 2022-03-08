@@ -27,7 +27,7 @@
 ## Curiosities:
 ### 🎓 Graduated in Advertising and English
 ### 👨🏽‍💻 Studying HTML, CSS and JavaScript
-### 🦾 Working hard to be front-end Developer
+### 🦾 Working hard to be a front-end Developer
 
   <br>
   
