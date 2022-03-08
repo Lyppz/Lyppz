@@ -1,6 +1,6 @@
 # Welcome to Fellipe's profile!
 
-#### Hi, my name is Fellipe and I'm Studying to be a front-end Developer.
+### Hi, my name is Fellipe and I'm Studying to be a front-end Developer.
 
 <br>
 
